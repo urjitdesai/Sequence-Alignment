@@ -20,5 +20,6 @@ Both the files output an "output.txt" file containing the following information:
 # Execution
 run the commands:
 python3 sub.py
+
 python3 ef.py
 
