@@ -11,6 +11,9 @@ generator mentioned above.
 2. Gap penalty (δe).
 3. Mismatch penalty (αpq)
 
+<img width="378" alt="image" src="https://user-images.githubusercontent.com/44604685/149442972-e8bdda73-7b0c-479c-93b4-4b24a84987c8.png">
+
+
 # Output
 Both the files output an "output.txt" file containing the following information:
 1. The first 50 elements and the last 50 elements of the actual alignment.
